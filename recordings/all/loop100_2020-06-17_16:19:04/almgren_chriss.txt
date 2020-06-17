@@ -1,0 +1,5 @@
+Training Set Num of Days:  1
+Test Set Num of Days:  1
+============================================================
+Running Almgren Chriss!
+Training Set, kappa = 0
